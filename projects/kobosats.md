@@ -23,14 +23,16 @@ KoboSats solves this by providing a dual-interface ecosystem:
 * **Telecom:** Africa's Talking API (USSD and SMS routing)
 
 ### Team Members
-* **Timilehin** - Frontend Developer & UI/UX
+* **Timilehin** - Frontend Developer
 * **Busayomi** - Backend Developer
 * **Rita** - Backend Developer
 * **Rufai** - Product Designer
 
 ### Links
-* **GitHub Repository:** will be added soon 
-* **Live Demo:** will be added soon
+
+[![Frontend Repo](https://img.shields.io/badge/Frontend_Repo-7E22CE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Team-Lumina/KoboStat-frontend)
+[![Backend Repo](https://img.shields.io/badge/Backend_Repo-7E22CE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Team-Lumina/KoboStat-frontend)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-7E22CE?style=for-the-badge&logo=vercel&logoColor=white)](#) *(Will be added soon)*
 
 ### Current Status and Next Steps
 The KoboSats frontend UI architecture is fully mapped, styled, and actively consuming mock endpoints, complete with a fully interactive web-based Nokia USSD emulator for demonstration. The backend team is currently finalizing the integration of the Breez SDK for live Lightning invoice generation. 
