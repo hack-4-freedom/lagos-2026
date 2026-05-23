@@ -111,9 +111,9 @@ It is helping them avoid preventable losses, confusion, and debt caused by poor 
 
 ## Team
 
-Enyi Gloria - Fullstack Developer
-Enyi Hannah - Product Analyst
-Achusim Ebube - Product Manager
+* Enyi Gloria - Fullstack Developer
+* Enyi Hannah - Product Analyst
+* Achusim Ebube - Product Manager
 
 ---
 
