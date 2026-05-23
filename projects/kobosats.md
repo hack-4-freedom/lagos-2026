@@ -1,6 +1,7 @@
 # KoboSats
 
-**Hack4Freedom Lagos 2026**
+> **Empowering the informal economy through offline-first Lightning integration.**
+> *Submitted for Hack4Freedom Lagos 2026*
 
 ### Overview
 KoboSats is a digital payment and debt-tracking solution designed specifically for informal market traders in Nigeria. It bridges the gap between basic feature phones and the Bitcoin Lightning Network, allowing merchants to accept digital payments and log customer debts completely offline via a USSD interface.
@@ -17,10 +18,12 @@ KoboSats solves this by providing a dual-interface ecosystem:
 * **The Web Dashboard:** A clean, mobile-first frontend application for traders who *do* have internet access, featuring 4-language local translation, Lightning QR code generation, and a persistent digital debt ledger backed up securely.
 
 ### Technology Stack
-* **Frontend:** React, Tailwind CSS, Context API (Mobile-first UI/UX)
-* **Backend:** Python, FastAPI, SQLite
-* **Bitcoin/Decentralized Infrastructure:** Breez Nodeless SDK (Lightning integration), Nostr (Decentralized identity and state backup)
-* **Telecom:** Africa's Talking API (USSD and SMS routing)
+| Layer | Technologies Used |
+| :--- | :--- |
+| **Client / UX** | React, Tailwind CSS, Context API |
+| **Core Services** | Python, FastAPI, SQLite |
+| **Protocol Layer** | Breez Nodeless SDK (Lightning), Nostr (Decentralized State Backup) |
+| **Telecom Integration** | Africa's Talking API (USSD & SMS Routing) |
 
 ### Team Members
 * **Timilehin** - Frontend Developer
@@ -32,7 +35,7 @@ KoboSats solves this by providing a dual-interface ecosystem:
 
 [![Frontend Repo](https://img.shields.io/badge/Frontend_Repo-7E22CE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Team-Lumina/KoboStat-frontend)
 [![Backend Repo](https://img.shields.io/badge/Backend_Repo-7E22CE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Team-Lumina/KoboStat-frontend)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-7E22CE?style=for-the-badge&logo=vercel&logoColor=white)](#) *(Will be added soon)*
+[![Live Demo](https://img.shields.io/badge/Live_Demo-7E22CE?style=for-the-badge&logo=vercel&logoColor=white)](#) *(Deployment pending)*
 
 ### Current Status and Next Steps
 The KoboSats frontend UI architecture is fully mapped, styled, and actively consuming mock endpoints, complete with a fully interactive web-based Nokia USSD emulator for demonstration. The backend team is currently finalizing the integration of the Breez SDK for live Lightning invoice generation. 
