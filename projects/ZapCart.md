@@ -141,6 +141,7 @@ Implemented Features:
 * Passkey authentication
 * Transaction history
 * Offline mode
+* Multi-currency support (view balance in different currencies)
 
 ZapCart is currently in active prototype and validation stage.
 
@@ -149,6 +150,7 @@ ZapCart is currently in active prototype and validation stage.
 ## Next Steps
 
 * Smarter inventory alerts
+* Multi-language support, covering major languages in Nigeria
 * Receipt generation
 * Multi-language support
 * Merchant analytics dashboard
