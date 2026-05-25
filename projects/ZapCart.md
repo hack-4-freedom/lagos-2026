@@ -127,7 +127,8 @@ It is helping them avoid preventable losses, confusion, and debt caused by poor 
 
 ## Status
 
-Current Status: Functional MVP
+Current Status: Functional MVP (Regtest mode)
+Do not use real coins, fake coins to be utilised can be gotten here: [Regtest Faucet](https://app.lightspark.com/regtest-faucet)
 
 Implemented Features:
 
