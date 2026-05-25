@@ -152,6 +152,6 @@ ZapCart is currently in active prototype and validation stage.
 * Smarter inventory alerts
 * Multi-language support, covering major languages in Nigeria
 * Receipt generation
-* Multi-language support
+* NWC Support
 * Merchant analytics dashboard
 * Voice-assisted accessibility support
