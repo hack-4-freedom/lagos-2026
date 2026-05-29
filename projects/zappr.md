@@ -81,7 +81,9 @@ stay in the browser.
 
 ## Team
 
-- **Abdullahi Salmat** ([@Salmatcre8](https://github.com/Salmatcre8))
+- **Abdullahi Ummu Salmat** ([@Salmatcre8](https://github.com/Salmatcre8)) — Product Manager & Backend Developer
+- **Ibrahim Ashiah Adejoke** — Product Designer
+- **Adegboye Oluwadarasimi Busayomi** — Frontend Developer
 
 ---
 
