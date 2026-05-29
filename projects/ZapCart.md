@@ -127,8 +127,8 @@ It is helping them avoid preventable losses, confusion, and debt caused by poor 
 
 ## Status
 
-Current Status: Functional MVP (Regtest mode)
-Do not use real coins, fake coins to be utilised can be gotten here: [Regtest Faucet](https://app.lightspark.com/regtest-faucet)
+Current Status: Functional MVP (Mainnet mode)
+ZapCart has been migrated from the Regtest mode into the Mainnet
 
 Implemented Features:
 
@@ -142,8 +142,6 @@ Implemented Features:
 * Transaction history
 * Offline mode
 * Multi-currency support (view balance in different currencies)
-
-ZapCart is currently in active prototype and validation stage.
 
 ---
 
