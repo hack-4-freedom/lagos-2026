@@ -73,6 +73,8 @@ Finishing a level earns real satoshis. Each player gets their own non-custodial 
 
 - **GitHub:** https://github.com/aizuanjeme/satquest
 - **Live demo:** coming soon
+- **Live Test Link:** https://mainsatquest.netlify.app
+- **Live Test Game Link:** https://satquests.netlify.app/
 
 ---
 
